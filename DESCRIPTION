@@ -6,6 +6,10 @@ Author: Jakub Nowicki <q.nowicki@gmail.com>
 Maintainer: Jakub Nowicki <q.nowicki@gmail.com>
 Description: A set of small utility functions.
 License: MIT + file LICENSE
+Suggests:
+  testthat,
+  lintr,
+  covr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
