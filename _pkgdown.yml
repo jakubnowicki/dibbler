@@ -1,0 +1,7 @@
+template:
+  params:
+    ganalytics: G-Q2395LD83V
+  opengraph:
+    twitter:
+      creator: "@q_nowicki"
+      card: summary_large_image
